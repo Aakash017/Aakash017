@@ -77,7 +77,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Aakash Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aakash017&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Aakash Sharma's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aakash017&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhaledBadranDev&count_private=true&theme=algolia&border_radius=20)
     
